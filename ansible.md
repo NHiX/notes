@@ -5,8 +5,7 @@ Ansible est écrit en python et travaille en mode daemonless
 
 Il est utilisé pour provisionner et configurer des infrastructures
 Il utilise le YAML (.yml) comme DSL
-Les notions à connaître pour ansible sont l'inventaire, les playbooks
-
+Les notions à connaître pour ansible sont l'inventaire, les playbooks, l'idempotence
 
 Se rappeler que les bonnes pratiques:
 
